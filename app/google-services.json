@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "1033024995960",
+    "project_id": "levelinga-eb408",
+    "storage_bucket": "levelinga-eb408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033024995960:android:57bcfdb7e81c473d3f638d",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033024995960-r02v1qt2ajkondavlh0ttb84lqcje5pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weatherapp",
+            "certificate_hash": "c5c86c37ccdef1b3b21ecf504daa8fdaa41dae92"
+          }
+        },
+        {
+          "client_id": "1033024995960-b42ll2vdicjv2ov1q2v36sdsbcdhccie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmmgv73dS2mRtt623ofFvNMk8ZW89y3bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033024995960-b42ll2vdicjv2ov1q2v36sdsbcdhccie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033024995960:android:d84afaa666f677483f638d",
+        "android_client_info": {
+          "package_name": "com.example.weatherleveling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033024995960-96cbdlpo8iki30qnk2kpvdah84g8rla9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weatherleveling",
+            "certificate_hash": "c5c86c37ccdef1b3b21ecf504daa8fdaa41dae92"
+          }
+        },
+        {
+          "client_id": "1033024995960-b42ll2vdicjv2ov1q2v36sdsbcdhccie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmmgv73dS2mRtt623ofFvNMk8ZW89y3bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033024995960-b42ll2vdicjv2ov1q2v36sdsbcdhccie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
